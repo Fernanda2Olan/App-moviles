@@ -1,8 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:navegacion/providers/actualizar_navegacion_provider.dart';
 import 'package:navegacion/screens/home_page.dart';
+import 'package:provider/provider.dart';
 
 void main() {
-  runApp(const MainApp());
+  runApp(ChangeNotifierProvider(
+    create: (context) => ActualizarNavegacionProvider(),
+    child: const MainApp(),
+  ));
 }
 
 class MainApp extends StatelessWidget {
