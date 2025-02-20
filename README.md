@@ -1,5 +1,5 @@
 # Material de la materia de móviles
-> NOTA: Necesario instalar o tener instalado flutter, además de un enmulador o conectar un dispositivo android y depurar ahí
+> NOTA: Necesario instalar o tener instalado flutter, además de un emulador o conectar un dispositivo android y depurar ahí
 
 ## UNIDAD I
 - AppBar
