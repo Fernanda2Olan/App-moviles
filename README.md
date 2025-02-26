@@ -1,4 +1,5 @@
 # Material de la materia de móviles
+> [!NOTA]
 > NOTA: Necesario instalar o tener instalado flutter, además de un emulador o conectar un dispositivo android y depurar ahí
 
 ## UNIDAD I
@@ -19,4 +20,6 @@
 - Slivers
 - Instalación de plugins
 - Provider
-- Navgeación con NavigationBar
+- Navegación con NavigationBar
+
+## UNIDAD II
