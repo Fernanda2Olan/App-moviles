@@ -1,5 +1,5 @@
 # Material de la materia de móviles
-> [!NOTE]
+> [!WARDING]
 > Necesario instalar o tener instalado flutter, además de un emulador o conectar un dispositivo android y depurar ahí
 
 > [!IMPORTANT]
