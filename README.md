@@ -2,8 +2,8 @@
 > [!NOTE]
 > Necesario instalar o tener instalado flutter, además de un emulador o conectar un dispositivo android y depurar ahí
 
-> Link para descargar FLUTTER:
-[Flutter](https://docs.flutter.dev/get-started/install)
+> [!IMPORTANT]
+[Link para descargar Flutter](https://docs.flutter.dev/get-started/install)
 
 ## UNIDAD I
 - AppBar
